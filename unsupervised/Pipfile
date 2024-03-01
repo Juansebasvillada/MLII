@@ -10,6 +10,8 @@ scikit-learn = "*"
 matplotlib = "*"
 flask = "*"
 opencv-python = "*"
+transformers = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
